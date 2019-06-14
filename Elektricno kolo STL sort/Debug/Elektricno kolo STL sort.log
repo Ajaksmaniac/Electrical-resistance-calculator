@@ -1,0 +1,29 @@
+﻿  Source.cpp
+C:\Users\Ajaks\source\repos\Elektricno kolo STL sort\Elektricno kolo STL sort\Source.cpp(88): warning C4244: 'return': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Ajaks\source\repos\Elektricno kolo STL sort\Elektricno kolo STL sort\Source.cpp(105): warning C4244: 'return': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\numeric(24): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  C:\Users\Ajaks\source\repos\Elektricno kolo STL sort\Elektricno kolo STL sort\Source.cpp(88): note: see reference to function template instantiation '_Ty std::accumulate<std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<Otpornik*>>>,int,<lambda_3f68cb6e3dc8bd6cf4a1a1ae4a24c52f>>(const _InIt,const _InIt,_Ty,_Fn)' being compiled
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<Otpornik *>>>,
+              _Fn=<lambda_3f68cb6e3dc8bd6cf4a1a1ae4a24c52f>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\include\numeric(24): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Elektricno kolo STL sort.vcxproj -> C:\Users\Ajaks\source\repos\Elektricno kolo STL sort\Debug\Elektricno kolo STL sort.exe
